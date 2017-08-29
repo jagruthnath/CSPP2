@@ -65,5 +65,12 @@ Expected output: leap year (or) not a leap year</td>
     <td>EVEN.C</td>
     <td>SumOfEven . JAVA</td>
   </tr>
+   <tr>
+    <td>3.</td>
+    <td>Write a program to print divisors of a number using do while loop</td>
+    <td>Factors.C</td>
+    <td>Factors . JAVA</td>
+  </tr>
+  
  </table>
 </body>
