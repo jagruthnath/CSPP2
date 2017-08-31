@@ -120,7 +120,7 @@ Expected output: leap year (or) not a leap year</td>
 
 <br>For the above created Map there might be several letters with similar count, create a new Map with frequency as keys and values as list of characters with similar frequencies.
 
-    <br>New Map: {2:['c','n'],3:['e'],1:['o','r','g']}
+   <br>New Map: {2:['c','n'],3:['e'],1:['o','r','g']}
 
  </td>
     <td>MapCount.C</td>
