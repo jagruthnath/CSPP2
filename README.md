@@ -73,4 +73,58 @@ Expected output: leap year (or) not a leap year</td>
   </tr>
   
  </table>
+ <h2>Module 3</h2>
+
+<table>
+  <tr>
+    <th>Number</th>
+    <th>Task</th>
+    <th>C File name</th>
+    <th>JAVA File name</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Create a user defined function which takes a single argument(integer) and check whether the given number is Even or Odd and return 'True' if the integer is even else 'False'. </td>
+    <td>EvenOrOdd.C</td>
+    <td>EvenOrOdd . JAVA</td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td> Create a recursive function to find the nth element in Fibonacci series. </td>
+    <td>Fibon.C</td>
+    <td>Fibon . JAVA</td>
+  </tr> 
+ </table>
+  <h2>Module 4</h2>
+
+<table>
+  <tr>
+    <th>Number</th>
+    <th>Task</th>
+    <th>C File name</th>
+    <th>JAVA File name</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Create a list of tuples where each tuple contains student name, marks,GPA and Grade of each and every student. Sort the list in the increasing order of marks.</td>
+    <td>Student.C</td>
+    <td>Main . JAVA</td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>  Given a string, create a Map(which is similar to Dictionary in python) with characters as keys and count(frequency) of each character as value.
+
+   <br> For the String "convergence"
+
+<br>    Map is {'c': 2, 'o': 1, 'n': 2, 'e': 3, 'r': 1, 'g':1}
+
+<br>For the above created Map there might be several letters with similar count, create a new Map with frequency as keys and values as list of characters with similar frequencies.
+
+    <br>New Map: {2:['c','n'],3:['e'],1:['o','r','g']}
+
+ </td>
+    <td>MapCount.C</td>
+    <td>MapCount . JAVA</td>
+  </tr> 
+ </table>
 </body>
