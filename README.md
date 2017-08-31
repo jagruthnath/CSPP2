@@ -116,11 +116,11 @@ Expected output: leap year (or) not a leap year</td>
 
    <br> For the String "convergence"
 
-<br>    Map is {'c': 2, 'o': 1, 'n': 2, 'e': 3, 'r': 1, 'g':1}
+<br>    <em>Map is {'c': 2, 'o': 1, 'n': 2, 'e': 3, 'r': 1, 'g':1}</em>
 
 <br>For the above created Map there might be several letters with similar count, create a new Map with frequency as keys and values as list of characters with similar frequencies.
 
-   <br>New Map: {2:['c','n'],3:['e'],1:['o','r','g']}
+   <em>New Map: {2:['c','n'],3:['e'],1:['o','r','g']}</em>
 
  </td>
     <td>MapCount.C</td>
